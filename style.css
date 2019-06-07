@@ -7,6 +7,17 @@ body{
 	font-family:Herculanum Regular; 
 	}/* style by Loretta
 	*/
+
+body {
+  background-color: #bef4f4;
+}
+
+h1 {
+  color: black; text-align: center;
+}
+
+p {font-family: arial;font-size: 16px;}/* style by Andy
+*/
 	
 .container {
 	background:#ccffe6;
