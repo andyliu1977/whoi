@@ -8,6 +8,21 @@ body{
 	}/* style by Loretta
 	*/
 	
+body {
+  background-color:#bef4f4;
+}
+
+h1 {
+  color: black; text-align: center;
+}
+
+p {
+  font-family: arial;
+  font-size: 16px;
+}
+
+/* Style by Andy
+*/
 .container {
 	background:#ccffe6;
 	border:5px dashed #555555;
